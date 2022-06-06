@@ -338,7 +338,7 @@ $('#return-to-top').click(function() {      // When arrow is clicked
 
 function makeTimer() {
 
-		var endTime = new Date("6 June 2022 10:00:00 GMT+05:30");
+		var endTime = new Date("7 June 2022 12:00:00 GMT+05:30");
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
